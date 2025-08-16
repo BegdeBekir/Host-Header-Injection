@@ -86,4 +86,4 @@ Bu araç yalnızca **güvenlik testleri** ve **yetkili pentest çalışmaları**
 
 ---
 
-👨‍💻 Geliştirici: [Senin Adın]  
+👨‍💻 Geliştirici: [Bekir Begde]  
